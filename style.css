@@ -23,7 +23,6 @@ body span {
 }
 
 .btn {
-    border: 1px solid black;
     background-color: #4267B2;
     color: white;
 }
@@ -47,10 +46,12 @@ body span {
 }
 
 .login-btn {
+    border: 1px solid black;
     margin-left: -1.3rem;
 }
 
 .sign-up-btn {
+    border: none;
     background-color: #588C45;
     font-size: 1.3rem;
 }
